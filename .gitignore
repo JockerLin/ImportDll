@@ -1,0 +1,5 @@
+*.opendb
+MathClient/.vs/
+MathClient/x64/
+MathLibrary/.vs/
+MathLibrary/x64/
