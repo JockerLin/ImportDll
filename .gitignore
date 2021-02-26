@@ -1,5 +1,12 @@
 *.opendb
 MathClient/.vs/
 MathClient/x64/
+MathClient/Debug/
+MathClient/MathClient/Debug
+MathClient/MathClient/X64
+
 MathLibrary/.vs/
 MathLibrary/x64/
+MathLibrary/Debug/
+MathLibrary/MathLibrary/Debug
+MathLibrary/MathLibrary/X64
